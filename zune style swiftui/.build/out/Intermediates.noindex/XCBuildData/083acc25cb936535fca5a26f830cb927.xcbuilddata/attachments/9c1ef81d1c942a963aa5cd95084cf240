@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer-primary.dia",
+    "emit-module-dependencies" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer-primary-emit-module.dia",
+    "pch" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer-primary.swiftdeps"
+  },
+  "/Users/kakkirenimanigopal/codex/zune style swiftui/Sources/ZuneExplorer.swift" : {
+    "const-values" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer.swiftconstvalues",
+    "dependencies" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer.d",
+    "diagnostics" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer.dia",
+    "index-unit-output-path" : "/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer.o",
+    "llvm-bc" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer.bc",
+    "object" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer.o",
+    "swift-dependencies" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer.swiftdeps",
+    "swiftmodule" : "/Users/kakkirenimanigopal/codex/zune style swiftui/.build/out/Intermediates.noindex/ZuneExplorer.build/Debug/ZuneExplorer-p.build/Objects-normal/arm64/ZuneExplorer~partial.swiftmodule"
+  }
+}

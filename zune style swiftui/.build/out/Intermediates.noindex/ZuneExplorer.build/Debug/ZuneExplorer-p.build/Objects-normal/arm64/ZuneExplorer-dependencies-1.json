@@ -1,0 +1,789 @@
+[
+  {
+    "isFramework" : true,
+    "moduleName" : "Accessibility",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Accessibility-1IPAV4ESJOZ12.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "AppKit",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/AppKit-25FQ7BEP2OPVQ.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "ColorSync",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-3786YDUJSM34W.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Combine",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Combine-1ESEZB7JF5PMG.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "CoreAudio",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-3QUN6U5F81O99.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreData",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreData-1D6A6MRG7X1FH.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "CoreFoundation",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-2I32TM9WP6AYB.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreGraphics",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-2DS3RM8QMJZJ6.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "CoreImage",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-25SXOWEZG0MR1.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreMedia",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-6TPCTTA76IRR.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreText",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-O9SQWDQMGSGZ.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreTransferable",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreTransferable-2XLW17UIKED3O.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreVideo",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-1VSX2VZ7JAXLS.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Darwin",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-18EMXEWPSJTTC.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "DataDetection",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-2E5XE55ZRQ36J.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "DeveloperToolsSupport",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-341SC224N8K9N.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Dispatch",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-3QOQ9WNHF25BV.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Distributed",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Distributed-1TJXL5R15KEUK.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "ExtensionFoundation",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ExtensionFoundation-ALV0U8GN17Q.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Foundation",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-3DHCK86Q90VPJ.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "IOKit",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-2CZ59MY1TY1X1.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "ImageIO",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-1TGOM95IJBV99.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "LightweightCodeRequirements",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/LightweightCodeRequirements-X1UQ4UO3KT7D.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Metal",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-1W5AW4HFER3TK.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Network",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Network-1MQPLSI5LY88O.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "OSLog",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/OSLog-21BFFHZS669ZL.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-DT5CCO9889HK.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Observation",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Observation-24GS9VLZG9DP5.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "PDFKit",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/PDFKit-1ACBGSXT001D6.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "QuartzCore",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-3BOR9KE10LN45.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "QuickLookThumbnailing",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/QuickLookThumbnailing-C7XXE23PJ75.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "QuickLookUI",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/QuickLookUI-2NI3FCQKN3TX2.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Spatial",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Spatial-1B37YKFZZ4G87.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Swift",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Swift-3A6X3RD1TW0AK.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "SwiftOnoneSupport",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftOnoneSupport-24557EORCNGFX.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "SwiftUI",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUI-FBJ35GORT02I.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "SwiftUICore",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUICore-3Q83BYVCJWP63.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Symbols",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Symbols-390QDXCKHKH2M.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Synchronization",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Synchronization-14JG28JOE18EX.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "System",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/System-3A78CSFPNMJI7.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "UniformTypeIdentifiers",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-3P5HR2ZUZMWBM.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "XPC",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-R8IKAHRYBL28.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-10WWIN004KD81.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Concurrency",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Concurrency-1PNDT4ECYN3KU.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-3RZYYQSM0VE7N.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-1RCNJGM7OO4KQ.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-1P31RFTC7LN5G.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "_QuickLook_SwiftUI",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_QuickLook_SwiftUI-1M5KJLTFMGZ0G.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_StringProcessing",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_StringProcessing-1AWYPWSTADYXW.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "os",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/os-2M87TN7DW6I01.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "simd",
+    "modulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/simd-1TYCIDAV7CGWF.swiftmodule"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Accessibility-98AYFEWPYEJP5I0BAU0A2A0R1.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Accessibility"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/AppKit.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/AppKit-3VYO36AE277QFJ9ESIPZY7JGS.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "AppKit"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/ApplicationServices.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ApplicationServices-2FXZQ3MHJQTWFZP6ROIURSKV7.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ApplicationServices"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CFNetwork-8DXPRRF8MS8MUPNYYYJOAUAZK.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CFNetwork"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/cups.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CUPS-BDM44QAGE57LUZSMZR3CIXDXO.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CUPS"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/Cocoa.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Cocoa-DT421NM2HJP31SNF6BGTC9AE6.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Cocoa"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/ColorSync.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-3FLE7X8KFQ88JQVP2HZRNWFA1.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ColorSync"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CoreAudio.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-9KCKDAYCLOVSY3UX26W0IDOV4.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreAudio"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CoreAudioTypes.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudioTypes-DC05N0GSSM3D3CP3J54R2KOHR.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreAudioTypes"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreData-5OHKHX6FNGC5H3SM409R46JI6.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreData"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-ER7J7HBLC43VMC72XJJ0K9OJI.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreFoundation"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-27OUB5SCA8RNUY3X1L6HTR6UN.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreGraphics"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-4O6D9WJDFTXZPS1G1319Z7170.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreImage"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CoreMedia.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-7EIY1KPDK1ES7IJ5XKBKGRUYR.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreMedia"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreServices-2GWLQ87KAIO2A28W4NZRQRA20.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreServices"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-5YL9RC7N8SWV5XV82EV3LHW8.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreText"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreTransferable-454D35E52J3JDZ1DNP3BANL1Y.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreTransferable"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-7YSNRPHFKTSK14XBSN7YJRUGX.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreVideo"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/Darwin.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-8KDDK39WJDJ6KQXLI9BEC6P83.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Darwin"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-CK4E5O529LE55PHTY7BSSBU16.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "DataDetection"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-155T6HD67DH4W6Y4AVMS1WUTO.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "DeveloperToolsSupport"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/DiskArbitration-CLR11PAY47UN067KCJHNV56XM.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "DiskArbitration"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/dispatch.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-AGR5CXDFCPAGJSX8DJ4KHFCF7.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Dispatch"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/ExtensionFoundation.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ExtensionFoundation-2BEYB26APXVZYVPNFTEG2RU9K.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ExtensionFoundation"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-7W8OE8EFZC2QEFBLO1N3FZ13.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Foundation"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-6YAPHZSH2G1VQIBAYBODOMFSV.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "IOKit"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/IOSurface-1YBR9SQ27PTPR3RU6IHBFXYT3.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "IOSurface"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/ImageCaptureCore.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ImageCaptureCore-DZF2R81V9E2KTCQE4FI8EUR05.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ImageCaptureCore"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-318XGPJ56JUUTJC2BDX4XJX18.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ImageIO"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/DarwinBasic.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/MachO-CP1UTYR0SBJ494BWI1YO7TL7K.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "MachO"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-CHR89I690TSJAF9CXGZE185KY.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Metal"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/Network.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Network-A4FXPW4HZEP6F8XZCYJZBIP1R.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Network"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/OSLog-65A6DPBJ8AL1X1IFLQYQ9J9IK.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "OSLog"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/ObjectiveC.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-324YWJ8FWXKBNIWP7E865516I.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/OpenGL.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/OpenGL-B95ADT7HTTRMBLTLBOWQWPNB9.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "OpenGL"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/PDFKit.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/PDFKit-21XCTZUUAZHQMXI1JAJXRW22T.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "PDFKit"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/Quartz.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Quartz-C9UZNP9UQGUAY6Q5VB3SW2BB7.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Quartz"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-AJE731W87695YYBS4C99VZILG.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "QuartzCore"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/QuickLook.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/QuickLook-9DLDTIF11SGX0MJ4D50874JQC.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "QuickLook"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/QuickLookThumbnailing.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/QuickLookThumbnailing-EGAD0UL7RMKO9Y109D4X0F1YW.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "QuickLookThumbnailing"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/QuickLookUI.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/QuickLookUI-AZL3029DSY6N9PLDJS7F9T4PF.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "QuickLookUI"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Security-DNDFVKWJVQ0BATORSJJ1QGV4Z.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Security"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/Spatial\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Spatial-AV1STVFBJ2AFA81MDM6N9PJOR.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Spatial"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftShims-42YO23V00GQHJUJPRXW3Z8STP.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/SwiftUI.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUI-7OR342A4MS52DZMB25NQV2YK5.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftUI"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUICore-7ODUSLXDE6AK55VYPKJR2FQZB.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftUICore"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/Symbols-9MBN6F3DXKZCPFNFSF27NIMKP.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Symbols"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-8Y6T404GK0IRLXMY8P9LSKQVC.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "UniformTypeIdentifiers"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/xpc.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-5ARUFTKDB1OVL7CDDON9F187V.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "XPC"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-DNQFQPCFO2WD3JVAGMPG2K18N.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_AvailabilityInternal"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-C36QHKIK1BHROC5N1Q4FLE17Z.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_intrinsics-8WWAUTQP26YC9QTYHNA6O20UD.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_intrinsics"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-DD2WXX22ZSDIO519K68N0DDLO.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_inttypes"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_limits-BMDMY5YMU0D5W2YS9A24VS4Y0.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_limits"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-9E15PYEGJVW5QS1ASVM7MUMYG.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdarg"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdatomic-EZ1PB43XI2U2FPQUDMPZW0L28.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdatomic"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-6PSOQTTZ4KD032YMG5V98DAA4.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdbool"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stddef-D6VJULJVD504K7JKILO1IT8V8.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stddef"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdint-D5KIR1C53NHLDWQ7RIK8IX47N.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdint"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_tgmath-C7Z5VCHZ463R5OB5ZD5WAHTMV.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_tgmath"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-74TUM1GP4JM10UZDUTIM8JHZG.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-EDA64DZDLJKKONN54JGEGY8E5.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/DarwinFoundation3.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-7TEVP0U2U2O9R90FNHF8ZMMNB.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-CQV237M31YVJBVHLWZS7HXV25.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_SwiftConcurrencyShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/dnssd.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/dnssd-2PVFQF3FWRBVOJRG7BSWOICIW.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "dnssd"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/launch.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/launch-3N4XBHMVNIQF8GDGXF07FFQB7.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "launch"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/libDER\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/libDER-M41PGSMSYVS03PXFS6KSEORT.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "libDER"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/libkern.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/libkern-53N2BPD91WWYKWJ8JRHE381PS.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "libkern"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/os-8E00RKGUBKR4E13HPFAKZ4OFD.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/os_object-CPYJKE89RX0ZGAFVUA7L62UEA.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os_object"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/os_workgroup-7XZ61GUW8V1D0OP4CGDQXB9G4.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os_workgroup"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ptrauth-64O7YK9UQ4V8AJ6LARJA1VE4W.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ptrauth"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/ptrcheck-9HD7OFNZY4W9TSO3LCCBTZGE.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ptrcheck"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/simd\/module.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/simd-D0DBDIBOZ1NXSVYDLRFSXNCN2.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "simd"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/c_standard_library.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/string_h-KHXBYZQIVPR93KRV8M7O5L5C.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "string_h"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.2.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Users\/kakkirenimanigopal\/codex\/zune style swiftui\/.build\/out\/SDKExplicitPrecompiledModules\/sys_types-6LW42S8DIKZ4T683JOU1QGCA5.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "sys_types"
+  }
+]
